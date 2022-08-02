@@ -1,0 +1,7 @@
+numpy==1.23.0
+pandas==1.4.3
+streamlit==1.11.1
+ta==0.10.1
+yfinance==0.1.72
+click==8.0.4
+protobuf<=3.20.1
